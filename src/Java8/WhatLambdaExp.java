@@ -10,7 +10,7 @@ public class WhatLambdaExp {
         //               return x*y;
         //             }
         // };
-        A obj=(x,y)-> x*y;
+        A obj=(x,y)->x*y;
         System.out.println(obj.m1(12,12 ));;
     }
 }
