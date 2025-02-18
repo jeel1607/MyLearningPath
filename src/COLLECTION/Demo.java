@@ -4,5 +4,6 @@ package COLLECTION;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("dkfdfm");
+        System.out.println("mfe");
     }
 }
