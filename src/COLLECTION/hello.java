@@ -6,5 +6,8 @@ public class hello {
         System.out.println("hello mkc");
         System.out.println("dndfefefefgit ");
         System.out.println("lndfdsf");
+        System.out.println("d;lmdfd");
+        System.out.println("cffc");
+        
     }
 }
