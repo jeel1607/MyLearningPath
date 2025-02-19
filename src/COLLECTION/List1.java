@@ -7,7 +7,7 @@ package COLLECTION;
 // 1. ArrayList 2. LinkedList 3. Vector 4. Stack
 
 import java.util.ArrayList;
-import java.util.Collection;
+
 import java.util.Collections;
 import java.util.Comparator;
 
