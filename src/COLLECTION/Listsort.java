@@ -15,10 +15,5 @@ public class Listsort {
       System.out.println("Before Sorting:"+l);
       Collections.sort(l,(I1,I2)->(I1<I2)?1:(I1>I2)?-1:0);
       System.out.println("After Sorting:"+l);
-<<<<<<< HEAD
-    
-=======
-      
->>>>>>> 9aeaa3b3b21a46a3600b112172fa0fcb13519c9b
       } 
 }
